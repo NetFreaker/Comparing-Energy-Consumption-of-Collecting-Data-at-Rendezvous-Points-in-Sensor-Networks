@@ -148,6 +148,5 @@ def total_energy_mst(nodes, mst_edges):
         total += nodes[v].data_packets * cost
     return total
 
-# Visualization
 
 

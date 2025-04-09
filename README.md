@@ -32,3 +32,10 @@ Install missing libraries using:
 ```sh
 pip install networkx matplotlib
 ```
+
+## How to Run
+1. Open a terminal or command prompt.
+2. Navigate to the directory where the script is saved.
+3. Run the script using:
+```sh
+python sensors.py
